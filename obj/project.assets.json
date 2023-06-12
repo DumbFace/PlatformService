@@ -3965,24 +3965,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Khang\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Vinaai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Workspace\\Repo\\Github\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "D:\\Repo\\Github\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "E:\\Workspace\\Repo\\Github\\PlatformService\\PlatformService.csproj",
-      "packagesPath": "C:\\Users\\Khang\\.nuget\\packages\\",
-      "outputPath": "E:\\Workspace\\Repo\\Github\\PlatformService\\obj\\",
+      "projectPath": "D:\\Repo\\Github\\PlatformService\\PlatformService.csproj",
+      "packagesPath": "C:\\Users\\Vinaai\\.nuget\\packages\\",
+      "outputPath": "D:\\Repo\\Github\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Khang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Vinaai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4058,7 +4053,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
